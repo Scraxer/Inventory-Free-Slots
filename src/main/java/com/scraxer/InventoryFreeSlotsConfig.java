@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.inventoryfreeslots;
+package com.scraxer;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
