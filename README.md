@@ -5,7 +5,10 @@ This RuneLite plugin shows the number of free inventory spaces available, positi
 
 ## Features
 - Displays the number of free spaces directly over the inventory bag icon.
-- Automatically updates as items are added or removed from the inventory.
+- Free space counter changes colour between green, yellow, orange and red based on free spaces remaining.
+- Adjustable font size.
+- Togglable shadowing/bordering of text.
+- Dynamically updates as items are added or removed from the inventory.
 
 ## How to Install
 1. Download and install the RuneLite client from [RuneLite.net](https://runelite.net/).
