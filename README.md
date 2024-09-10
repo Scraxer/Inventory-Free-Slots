@@ -24,4 +24,4 @@ This RuneLite plugin shows the number of free inventory spaces available, positi
 If you would like to contribute to the development of this plugin or report issues, feel free to submit a pull request or an issue on the GitHub repository.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the BSD 2-Clause License. See the `LICENSE` file for details.
